@@ -1,0 +1,25 @@
+
+[
+    {
+      "id": "1",
+      "name": "Elegant Silk Dress",
+      "image": "/main1.jpg",
+      "price": "299.99",
+      "description": "A beautiful silk dress perfect for any occasion."
+    },
+    {
+      "id": "2",
+      "name": "Modern Eastern Dress",
+      "image": "/main2.jpg",
+      "price": "199.99",
+      "description": "A contemporary take on traditional Eastern fashion."
+    },
+    {
+      "id": "3",
+      "name": "Traditional Silk Robe",
+      "image": "/post1.jpg",
+      "price": "99.99",
+      "description": "A luxurious silk robe for relaxed elegance."
+    }
+  ]
+  

@@ -1,0 +1,28 @@
+
+[
+    {
+      "id": "post1",
+      "title": "The Beauty of Traditional Eastern Dresses",
+      "date": "February 10, 2025",
+      "content": "An in-depth look into the intricate designs and cultural significance of Eastern fashion.",
+      "image": "/post1.jpg"
+    },
+    {
+      "id": "post2",
+      "title": "How to Style Eastern Dresses for Modern Occasions",
+      "date": "February 14, 2025",
+      "content": "Traditional Eastern dresses can be styled in a variety of modern ways.",
+      "image": "/kurta.jpg"
+    },
+    {
+      "id": "post3",
+      "title": "The Influence of Eastern Fashion on Western Trends",
+      "date": "February 14, 2025",
+      "content": "Eastern fashion is influencing modern designers worldwide.",
+      "image": "/suit1.jpg"
+    }
+    
+  ]
+  
+ 
+  
